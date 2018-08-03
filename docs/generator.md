@@ -871,7 +871,7 @@ let delegatingIterator = (function* () {
 for(let value of delegatingIterator) {
   console.log(value);
 }
-// "Greetings!
+// "Greetings!"
 // "Hello!"
 // "Bye!"
 // "Ok, bye."
